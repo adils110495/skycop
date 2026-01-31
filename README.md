@@ -3,6 +3,7 @@
 🔗 Website: https://www.skycop.com/
 
 🛫 Industry: Air Passenger Rights & Flight Compensation
+
 🌍 Content Responsibility: Content creation, localization & multilingual publishing
 
     📌 Project Overview
