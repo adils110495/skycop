@@ -24,7 +24,6 @@
 
           🌐 Multilingual Publishing
               Creating localized content in multiple languages, such as:
-              
                 -  Estonian
                 -  Finnish
                 -  Portuguese
@@ -36,12 +35,11 @@
 
      📊 Key Features Covered in Content
           📌 Flight Compensation Guides
-          
-            ✔ Delayed flight compensation
-            ✔ Cancelled flight compensation
-            ✔ Overbooking compensation
-            ✔ Missed connection claims
-            ✔ Denied boarding rights
-            ✔ Baggage delay & loss claims
+              ✔ Delayed flight compensation
+              ✔ Cancelled flight compensation
+              ✔ Overbooking compensation
+              ✔ Missed connection claims
+              ✔ Denied boarding rights
+              ✔ Baggage delay & loss claims
       
           These articles guide users through each step of understanding their legal rights and claim process.
