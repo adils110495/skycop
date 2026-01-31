@@ -14,7 +14,7 @@
           -  Denied boarding
         The site provides an easy online process for passengers to check eligibility and submit compensation claims under EU Regulation EC 261/2004 and other international passenger rights laws.
 
-      ✍️ My Role & Contribution
+    ✍️ My Role & Contribution
   
         I am responsible for:
           📝 Content Creation
@@ -34,7 +34,7 @@
                 -  And many languages more...
               This ensures global users can access compensation guidance in their own language.
 
-      📊 Key Features Covered in Content
+     📊 Key Features Covered in Content
           📌 Flight Compensation Guides
             ✔ Delayed flight compensation
             ✔ Cancelled flight compensation
