@@ -6,7 +6,6 @@
 🌍 Content Responsibility: Content creation, localization & multilingual publishing
 
   📌 Project Overview
-
     Skycop is a leading digital platform that helps air travelers claim compensation for disrupted flights such as:
       -  Flight delays
       -  Flight cancellations
