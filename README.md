@@ -7,18 +7,17 @@
 
     📌 Project Overview
         Skycop is a leading digital platform that helps air travelers claim compensation for disrupted flights such as:
-          -  Flight delays
-          -  Flight cancellations
-          -  Overbooked flights
-          -  Missed connections
-          -  Denied boarding
-        The site provides an easy online process for passengers to check eligibility and submit compensation claims under EU Regulation EC 261/2004 and other international passenger rights laws.
+           -  Flight delays
+           -  Flight cancellations
+           -  Overbooked flights
+           -  Missed connections
+           -  Denied boarding
+         The site provides an easy online process for passengers to check eligibility and submit compensation claims under EU Regulation EC 261/2004 and other international passenger rights laws.
 
     ✍️ My Role & Contribution
   
         I am responsible for:
           📝 Content Creation
-          
             -  Writing informative articles and web content for the Skycop platform
             -  Crafting detailed passenger-rights guides
             -  Explaining claims procedures clearly for travelers
