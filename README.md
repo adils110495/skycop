@@ -44,11 +44,11 @@
           These articles guide users through each step of understanding their legal rights and claim process.
 
 📸 Screenshots (See Below)
-    ### 🏠 APPR Page
-    ![APPR Pages](screenshots/home.PNG)
+### 🏠 APPR Page
+![APPR Pages](screenshots/home.PNG)
 
-    ### 🏠 Airline Page
-    ![Airline Pages](screenshots/airline.PNG)
+### 🏠 Airline Page
+![Airline Pages](screenshots/airline.PNG)
 
-    ### 🏠 Airport Page
-    ![Airport Pages](screenshots/airport.PNG)
+### 🏠 Airport Page
+![Airport Pages](screenshots/airport.PNG)
